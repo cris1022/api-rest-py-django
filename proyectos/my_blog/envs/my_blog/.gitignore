@@ -1,0 +1,5 @@
+# Ignorar el entorno virtual
+envs/my_blog/
+
+# Otros patrones existentes
+# ...existing code...
